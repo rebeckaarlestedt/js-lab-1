@@ -15,4 +15,5 @@ function printDetails(person) {
 const message = printDetails({name: 'Rebecka', age: '33', country: 'Sweden' });
 console.log(message);
 
-let hejsvejs = 'hej'; 
+let hejsvejs = 'hej';
+let ajksfh = "anfl";
