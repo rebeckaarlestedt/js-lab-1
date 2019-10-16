@@ -17,3 +17,4 @@ console.log(message);
 
 let hejsvejs = 'hej';
 let ajksfh = "anfl";
+let minajfajfk = "skldgjs";
